@@ -1,0 +1,102 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "selectedPrice&Sequence_1",
+        "selectedName&Sequence_1",
+        "selectedCategory&Sequence_1",
+        "LoggedUser&Sequence_5",
+        "Password&Sequence_8",
+        "Username&Sequence_1",
+        "Password&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ProductTableScraper.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "budgetParts&Sequence_13",
+        "brand&Sequence_14",
+        "budget&Sequence_14",
+        "minPrice&Sequence_14",
+        "maxPrice&Sequence_14",
+        "selectedProduct&Sequence_14",
+        "selectedName&Sequence_14",
+        "selectedPrice&Sequence_14",
+        "budgetParts&Sequence_11",
+        "brand&Sequence_12",
+        "budget&Sequence_12",
+        "minPrice&Sequence_12",
+        "maxPrice&Sequence_12",
+        "selectedProduct&Sequence_12",
+        "selectedName&Sequence_12",
+        "selectedPrice&Sequence_12",
+        "selectedPrice&Sequence_4",
+        "selectedName&Sequence_4",
+        "selectedProduct&Sequence_4",
+        "maxPrice&Sequence_4",
+        "minPrice&Sequence_4",
+        "budgetParts&Sequence_3",
+        "budget&Sequence_4",
+        "brand&Sequence_4",
+        "category&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_price",
+        "out_name",
+        "out_category",
+        "out_itemTable"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ViewCart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "totalCart&Sequence_2",
+        "totalCartStr&Sequence_2",
+        "isCartEmpty&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AddToCart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cardName&Sequence_9",
+        "cardPrice&Sequence_9",
+        "cardPriceDec&Sequence_9",
+        "cardName&Sequence_8",
+        "cardPrice&Sequence_8",
+        "cardPriceDec&Sequence_8",
+        "cardPriceDec&Sequence_5",
+        "cardPrice&Sequence_5",
+        "cardName&Sequence_5",
+        "cardName&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_price",
+        "in_name",
+        "in_category"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
